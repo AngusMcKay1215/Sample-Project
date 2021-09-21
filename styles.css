@@ -2,3 +2,43 @@ body {
 background-color: aqua;
 
 }
+
+.topnav {
+
+    overflow: hidden;
+    background-color: green;
+    height: 50px;
+
+}
+
+.topnav  a {
+
+    float: left;
+    color: black;
+    background-color: lightblue;
+
+    text-decoration-color: none;
+    text-align: center;
+
+    padding-left: 25px;
+    padding-right: 25px;
+    padding: 25px;
+
+
+    font-size: 15px;
+
+    margin-left: 10px;
+    height: 100%;
+
+}
+
+
+.topnav a:hover {
+
+    background-color: coral;
+
+
+}
+
+
+
